@@ -3,7 +3,7 @@
 # Terminal colour testcard: simple swatches, complete fg×bg, count, or an
 # interactive pair test. Colour codes are 0 .. ncolors-1.
 
-BASH_COLOUR_TESTCARD_VERSION="0.1.0"
+BASH_COLOUR_TESTCARD_VERSION="0.1.1"
 SCRIPT_TITLE="Bash Colour Testcard"
 
 COMPLETE_DEFAULT_CAP=16
